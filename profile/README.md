@@ -3,6 +3,8 @@
 오늘 한 끼, 더 합리적이고 똑똑하게! <br>
 낭비 없는 한 끼의 시작, 잔반 플러팅
 
+<br>
+
 
 ## 👥 팀원 소개
 
@@ -12,7 +14,36 @@
 | **역할**   | PM | PD | FE | FE | BE/AI | BE |
 | **GitHub** | [@kmgnw](https://github.com/kmgnw) | [@takeitleezy](https://www.instagram.com/takeitleezi/) | [@a-neey](https://github.com/a-neey) | [@parkseonghun598](https://github.com/parkseonghun598) | [@frombunny](https://github.com/frombunny) | [@oroi2009](https://github.com/oroi2009) |
 
+<br>
 
+## 🛠️ 개발구조도
+<img width="542" height="612" alt="struct" src="https://github.com/user-attachments/assets/4a3d441a-fee3-40a0-8ff8-7d34f4f8d8ba" />
+
+## 🧰 기술 스택
+
+### 🖥 Frontend
+- **React** — UI 구성
+- **SCSS** — 스타일 관리
+- **React Router DOM** — 라우팅
+- **Axios** — API 연동
+- **Kakao Map API** — 지도/경로 시각화
+- **Vercel** — 프론트엔드 배포
+
+### ⚙️ Backend
+- **Java 21**, **Spring Boot 3.5.3**
+- **MySQL** — 메인 데이터베이스
+- **JPA** — 데이터 접근
+- **Swagger (springdoc-openapi)** — API 문서화
+- **Docker**, **GitHub Actions** — 컨테이너/CI·CD
+
+### 🤖 AI
+- **Python 3.11**, **FastAPI** — 경량 API 서버
+- **scikit-learn** — 벡터화/차원축소/스케일링/결측치 보정
+- **hnswlib** — 근접 탐색(메뉴명 유사도 매칭)
+- **numpy**, **joblib** — 수치 연산/모델 직렬화
+- **Uvicorn** — ASGI 서버
+
+<br>
 
 ## 🛠 주요 기능
 
@@ -40,6 +71,7 @@
 - 반찬 활용법 제공
 - AI 기반 추천 레시피 제공
 
+<br>
 
 ## 📸 스크린샷 & 🎬 GIF
 
@@ -59,6 +91,7 @@
 |--------------------|----------------|-------------|
 | <img src = "https://github.com/AllDaySideProject/Frontend/blob/ef9b654fa965a9a3f9e7b72eae42a04d2281a125/src/assets/screenshots/pickup-map.png?raw=true" width = "250" /> | <img src = "https://github.com/AllDaySideProject/Frontend/blob/ef9b654fa965a9a3f9e7b72eae42a04d2281a125/src/assets/screenshots/pickup-code.png?raw=true" width = "250" /> | <img src = "https://github.com/AllDaySideProject/Frontend/blob/ef9b654fa965a9a3f9e7b72eae42a04d2281a125/src/assets/screenshots/tip.gif?raw=true" width = "250" /> |
 
+<br>
 
 ## 🌐 배포
 👉 [잔반 플러팅 바로가기](https://jf-frontend.vercel.app)
