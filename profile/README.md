@@ -45,19 +45,19 @@
 
 | 메인 화면 (📸) |
 |----------------|
-| <img src="./src/assets/screenshots/main.png" width="250" /> |
+| <img src="https://github.com/AllDaySideProject/Frontend/blob/ef9b654fa965a9a3f9e7b72eae42a04d2281a125/src/assets/screenshots/main.png?raw=true" width="250" /> |
 
 | 메뉴 선택 (🎬) | AI 추천 (🎬) | 지도에서 선택 (🎬) |
 |----------------|--------------|------------------|
-| <img src="./src/assets/screenshots/menu1.gif" width="250" /> | <img src="./src/assets/screenshots/ai.gif" width="250" /> | <img src="./src/assets/screenshots/map.gif" width="250" /> |
+| <img src="https://github.com/AllDaySideProject/Frontend/blob/ef9b654fa965a9a3f9e7b72eae42a04d2281a125/src/assets/screenshots/menu1.gif?raw=true" width="250" /> | <img src="https://github.com/AllDaySideProject/Frontend/blob/ef9b654fa965a9a3f9e7b72eae42a04d2281a125/src/assets/screenshots/ai.gif?raw=true" width="250" /> | <img src="https://github.com/AllDaySideProject/Frontend/blob/ef9b654fa965a9a3f9e7b72eae42a04d2281a125/src/assets/screenshots/map.gif?raw=true" width="250" /> |
 
 | 장바구니 (📸) | 장바구니에서 삭제 (🎬) |
 |---------------|---------------------------|
-| <img src = "./src/assets/screenshots/cart.png" width = "250" /> | <img src = "./src/assets/screenshots/cart-delete.gif" width = "250" /> |
+| <img src = "https://github.com/AllDaySideProject/Frontend/blob/ef9b654fa965a9a3f9e7b72eae42a04d2281a125/src/assets/screenshots/cart.png?raw=true" width = "250" /> | <img src = "https://github.com/AllDaySideProject/Frontend/blob/ef9b654fa965a9a3f9e7b72eae42a04d2281a125/src/assets/screenshots/cart-delete.gif?raw=true" width = "250" /> |
 
 | 픽업 지도 (📸) | 픽업 코드 (📸) | 알뜰팁 (🎬) |
 |--------------------|----------------|-------------|
-| <img src = "./src/assets/screenshots/pickup-map.png" width = "250" /> | <img src = "./src/assets/screenshots/pickup-code.png" width = "250" /> | <img src = "./src/assets/screenshots/tip.gif" width = "250" /> |
+| <img src = "https://github.com/AllDaySideProject/Frontend/blob/ef9b654fa965a9a3f9e7b72eae42a04d2281a125/src/assets/screenshots/pickup-map.png?raw=true" width = "250" /> | <img src = "https://github.com/AllDaySideProject/Frontend/blob/ef9b654fa965a9a3f9e7b72eae42a04d2281a125/src/assets/screenshots/pickup-code.png?raw=true" width = "250" /> | <img src = "https://github.com/AllDaySideProject/Frontend/blob/ef9b654fa965a9a3f9e7b72eae42a04d2281a125/src/assets/screenshots/tip.gif?raw=true" width = "250" /> |
 
 
 ## 🌐 배포
